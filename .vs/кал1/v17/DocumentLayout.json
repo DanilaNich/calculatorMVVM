@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|c:\\users\\thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\view\\engineeringcalculatorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|solutionrelative:\u043A\u0430\u043B1\\view\\engineeringcalculatorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\view\\engineeringcalculatorview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|solutionrelative:\u043A\u0430\u043B1\\view\\engineeringcalculatorview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|solutionrelative:\u043A\u0430\u043B1\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|solutionrelative:\u043A\u0430\u043B1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\view\\startwindowview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|solutionrelative:\u043A\u0430\u043B1\\view\\startwindowview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|solutionrelative:\u043A\u0430\u043B1\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\view\\startwindowview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|solutionrelative:\u043A\u0430\u043B1\\view\\startwindowview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\viewmodel\\startwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|solutionrelative:\u043A\u0430\u043B1\\viewmodel\\startwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\model\\engineeringcalculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|solutionrelative:\u043A\u0430\u043B1\\model\\engineeringcalculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\viewmodel\\engineeringcalculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|solutionrelative:\u043A\u0430\u043B1\\viewmodel\\engineeringcalculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|solutionrelative:\u043A\u0430\u043B1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\model\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|solutionrelative:\u043A\u0430\u043B1\\model\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\helpers\\bindcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|solutionrelative:\u043A\u0430\u043B1\\helpers\\bindcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|solutionrelative:\u043A\u0430\u043B1\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\viewmodel\\calculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|solutionrelative:\u043A\u0430\u043B1\\viewmodel\\calculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CD3C1AD7-E515-4299-9F32-BD27FE56D184}|\u043A\u0430\u043B1\\\u043A\u0430\u043B1.csproj|solutionrelative:\u043A\u0430\u043B1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "\u043A\u0430\u043B1\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\View\\MainWindow.xaml",
+              "RelativeToolTip": "\u043A\u0430\u043B1\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T16:10:45.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EngineeringCalculatorView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\View\\EngineeringCalculatorView.xaml.cs",
+              "RelativeDocumentMoniker": "\u043A\u0430\u043B1\\View\\EngineeringCalculatorView.xaml.cs",
+              "ToolTip": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\View\\EngineeringCalculatorView.xaml.cs",
+              "RelativeToolTip": "\u043A\u0430\u043B1\\View\\EngineeringCalculatorView.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:25:35.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartWindowView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\View\\StartWindowView.xaml.cs",
+              "RelativeDocumentMoniker": "\u043A\u0430\u043B1\\View\\StartWindowView.xaml.cs",
+              "ToolTip": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\View\\StartWindowView.xaml.cs",
+              "RelativeToolTip": "\u043A\u0430\u043B1\\View\\StartWindowView.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:19:50.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\App.xaml",
+              "RelativeDocumentMoniker": "\u043A\u0430\u043B1\\App.xaml",
+              "ToolTip": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\App.xaml",
+              "RelativeToolTip": "\u043A\u0430\u043B1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T16:16:48.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EngineeringCalculatorView.xaml",
+              "DocumentMoniker": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\View\\EngineeringCalculatorView.xaml",
+              "RelativeDocumentMoniker": "\u043A\u0430\u043B1\\View\\EngineeringCalculatorView.xaml",
+              "ToolTip": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\View\\EngineeringCalculatorView.xaml",
+              "RelativeToolTip": "\u043A\u0430\u043B1\\View\\EngineeringCalculatorView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T07:25:12.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "\u043A\u0430\u043B1\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "\u043A\u0430\u043B1\\View\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:10:44.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StartWindowView.xaml",
+              "DocumentMoniker": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\View\\StartWindowView.xaml",
+              "RelativeDocumentMoniker": "\u043A\u0430\u043B1\\View\\StartWindowView.xaml",
+              "ToolTip": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\View\\StartWindowView.xaml",
+              "RelativeToolTip": "\u043A\u0430\u043B1\\View\\StartWindowView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T06:00:02.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\ViewModel\\StartWindowViewModel.cs",
+              "RelativeDocumentMoniker": "\u043A\u0430\u043B1\\ViewModel\\StartWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\ViewModel\\StartWindowViewModel.cs",
+              "RelativeToolTip": "\u043A\u0430\u043B1\\ViewModel\\StartWindowViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:02:03.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EngineeringCalculatorModel.cs",
+              "DocumentMoniker": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\Model\\EngineeringCalculatorModel.cs",
+              "RelativeDocumentMoniker": "\u043A\u0430\u043B1\\Model\\EngineeringCalculatorModel.cs",
+              "ToolTip": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\Model\\EngineeringCalculatorModel.cs",
+              "RelativeToolTip": "\u043A\u0430\u043B1\\Model\\EngineeringCalculatorModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:20:25.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EngineeringCalculatorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\ViewModel\\EngineeringCalculatorViewModel.cs",
+              "RelativeDocumentMoniker": "\u043A\u0430\u043B1\\ViewModel\\EngineeringCalculatorViewModel.cs",
+              "ToolTip": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\ViewModel\\EngineeringCalculatorViewModel.cs",
+              "RelativeToolTip": "\u043A\u0430\u043B1\\ViewModel\\EngineeringCalculatorViewModel.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwCwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:22:40.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "\u043A\u0430\u043B1\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\App.xaml.cs",
+              "RelativeToolTip": "\u043A\u0430\u043B1\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:16:51.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CalculatorModel.cs",
+              "DocumentMoniker": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\Model\\CalculatorModel.cs",
+              "RelativeDocumentMoniker": "\u043A\u0430\u043B1\\Model\\CalculatorModel.cs",
+              "ToolTip": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\Model\\CalculatorModel.cs",
+              "RelativeToolTip": "\u043A\u0430\u043B1\\Model\\CalculatorModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:12:09.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BindCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\Helpers\\BindCommand.cs",
+              "RelativeDocumentMoniker": "\u043A\u0430\u043B1\\Helpers\\BindCommand.cs",
+              "ToolTip": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\Helpers\\BindCommand.cs",
+              "RelativeToolTip": "\u043A\u0430\u043B1\\Helpers\\BindCommand.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBYAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:17:57.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\Helpers\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "\u043A\u0430\u043B1\\Helpers\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\Helpers\\RelayCommand.cs",
+              "RelativeToolTip": "\u043A\u0430\u043B1\\Helpers\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:17:56.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CalculatorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\ViewModel\\CalculatorViewModel.cs",
+              "RelativeDocumentMoniker": "\u043A\u0430\u043B1\\ViewModel\\CalculatorViewModel.cs",
+              "ToolTip": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\ViewModel\\CalculatorViewModel.cs",
+              "RelativeToolTip": "\u043A\u0430\u043B1\\ViewModel\\CalculatorViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:13:47.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\App.config",
+              "RelativeDocumentMoniker": "\u043A\u0430\u043B1\\App.config",
+              "ToolTip": "C:\\Users\\Thunderobot\\source\\repos\\\u043A\u0430\u043B1\\\u043A\u0430\u043B1\\App.config",
+              "RelativeToolTip": "\u043A\u0430\u043B1\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-10T16:21:38.013Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

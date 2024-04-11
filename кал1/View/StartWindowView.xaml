@@ -1,0 +1,82 @@
+﻿<Window x:Class="кал1.View.StartWindowView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:кал1.View"
+        mc:Ignorable="d"
+        Title="StartWindowView" Height="300" Width="300">
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="#0072C6" Offset="0"/>
+                <GradientStop Color="#004990" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="229">
+
+            <Button Command="{Binding OpenSimpleCalc}" Content="Математический калькулятор" HorizontalAlignment="Stretch" Height="62" Margin="0,0,0,20">
+                <Button.Background>
+                    <SolidColorBrush Color="#7BB661"/>
+                </Button.Background>
+                <Button.Foreground>
+                    <SolidColorBrush Color="White"/>
+                </Button.Foreground>
+                <Button.BorderBrush>
+                    <SolidColorBrush Color="#5C8747"/>
+                </Button.BorderBrush>
+                <Button.BorderThickness>
+                    <Thickness>1</Thickness>
+                </Button.BorderThickness>
+                <Button.Padding>
+                    <Thickness>10</Thickness>
+                </Button.Padding>
+                <Button.FontSize>14</Button.FontSize>
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                            BorderBrush="{TemplateBinding BorderBrush}"
+                            BorderThickness="{TemplateBinding BorderThickness}"
+                            CornerRadius="10">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+
+            <Button Command="{Binding OpenEngenCalc}"  Content="Инженерный калькулятор" HorizontalAlignment="Stretch" Height="62" Margin="0,20,0,0">
+                <Button.Background>
+                    <SolidColorBrush Color="#7BB661"/>
+                </Button.Background>
+                <Button.Foreground>
+                    <SolidColorBrush Color="White"/>
+                </Button.Foreground>
+                <Button.BorderBrush>
+                    <SolidColorBrush Color="#5C8747"/>
+                </Button.BorderBrush>
+                <Button.BorderThickness>
+                    <Thickness>1</Thickness>
+                </Button.BorderThickness>
+                <Button.Padding>
+                    <Thickness>10</Thickness>
+                </Button.Padding>
+                <Button.FontSize>14</Button.FontSize>
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                            BorderBrush="{TemplateBinding BorderBrush}"
+                            BorderThickness="{TemplateBinding BorderThickness}"
+                            CornerRadius="10">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+
+        </StackPanel>
+
+    </Grid>
+
+</Window>
